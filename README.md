@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=SUNI)
+![header](https://capsule-render.vercel.app/api?type=venom&color=FFDD65&height=300&section=header&text=SUNI&fontSize=90)
 
 <!--
 **SuniDev/SuniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
