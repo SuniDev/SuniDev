@@ -23,11 +23,11 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactorKit-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/ReactorKit-2E236C?style=flat-square"/>
 <br>
-<img src="https://img.shields.io/badge/MVC-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/MVP-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/MVVM-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVC-45474B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVP-45474B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVVM-45474B?style=flat-square"/>
  
 </div>
 
