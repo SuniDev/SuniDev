@@ -19,15 +19,24 @@
    
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactorKit-2E236C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Combine-F0652F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tuist-236CFF?style=flat-square"/>
 <br>
-<img src="https://img.shields.io/badge/MVC-45474B?style=flat-square"/>
-<img src="https://img.shields.io/badge/MVP-45474B?style=flat-square"/>
+<img src="https://img.shields.io/badge/TCA-45474B?style=flat-square"/>
 <img src="https://img.shields.io/badge/MVVM-45474B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVP-45474B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVC-45474B?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/Moya-45474B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Alamofire-45474B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fastlane-45474B?style=flat-square"/>
+<br>
  
 </div>
 
