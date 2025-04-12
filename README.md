@@ -6,7 +6,7 @@
   
 ## 👋 만들고 싶은 걸 만드는 iOS 개발자 Suni 입니다. 👋
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuniDev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com) <a href= "https://sunidev.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-E74C3C?style=flat-square&logo=tistory&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href= "https://sunidev.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-E74C3C?style=flat-square&logo=tistory&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SuniDev&show_icons=true&theme=radical" />
